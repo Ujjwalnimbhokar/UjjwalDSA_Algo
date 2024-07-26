@@ -20,8 +20,8 @@ export default function Seo({ category, id }) {
               title: currAlgoData.metaTitle,
               description: currAlgoData.description,
               profile: {
-                firstName: "Rahul",
-                lastName: "Biswakarma",
+                firstName: "Ujjwal",
+                lastName: "Nimbokar",
               },
               images: [
                 {

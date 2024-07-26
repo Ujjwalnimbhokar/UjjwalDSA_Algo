@@ -32,8 +32,8 @@ export default function Home() {
           title: "Home | Algospace",
           description: "A algorithm visualizer for understanding algorithms",
           profile: {
-            firstName: "Rahul",
-            lastName: "Biswakarma",
+            firstName: "Ujjwal",
+            lastName: "Nimbokar",
           },
           images: [
             {
