@@ -1,3 +1,36 @@
+DSA Algorithm Visualization Website
+
+
+Description: Developed an interactive website to visualize various Data Structures and Algorithms (DSA), enhancing users' understanding of algorithm functionality through visual representation.
+Technologies Used: React.js, JavaScript, CSS, HTML
+Key Contributions:
+Implemented visualization tools for a variety of sorting algorithms including Bubble Sort, Selection Sort, Insertion Sort, and Merge Sort.
+Developed visualizations for searching algorithms such as Linear Search, Binary Search, and Jump Search.
+Created interactive representations for recursive algorithms like Tower of Hanoi and N-Queens Problem.
+Designed maze generation algorithms including DFS Maze, Kruskal Maze, Recursive Division, and Binary Tree Maze.
+Enhanced user experience by providing real-time feedback and detailed step-by-step algorithm animations.
+Ensured the platform is intuitive and educational, serving as a valuable resource for students and educators alike.
+
+![Screenshot 2024-07-26 142623](https://github.com/user-attachments/assets/d1e4ad9f-6fef-429a-ac96-581a93f76096)
+
+
+
+![Screenshot 2024-07-26 151008](https://github.com/user-attachments/assets/00a0b207-5945-429f-ac28-0517f98144d4)
+
+![Screenshot 2024-07-26 151016](https://github.com/user-attachments/assets/73fcc9ec-40cc-4305-bbf6-91970cff36b8)
+
+
+![Screenshot 2024-07-26 151031](https://github.com/user-attachments/assets/461ecb84-4203-49dd-b647-28af90f14a5d)
+
+![Screenshot 2024-07-26 151102](https://github.com/user-attachments/assets/627aa066-681c-4000-85c9-cea0457a7ef8)
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
